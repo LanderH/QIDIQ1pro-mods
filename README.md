@@ -5,7 +5,7 @@ if you want any changes or want to add a new project/ mod you can make a pull re
 ---------------------------------------------------------------------------------------------------------------------
 firmware mods/ projects
 
-1) OpenQ1 by frap129: https://github.com/frap129/OpenQ1
+1) OpenQ1 by frap129: https://github.com/frap129/OpenQ1                                                       
    this projects is a step by step guide on how to convert from stock firmware to community supported firmware
    including The latest versions of klipper, moonraker, fluidd, etc and Improved configuration and macros
 2) klipmi by frap129: https://github.com/frap129/klipmi
