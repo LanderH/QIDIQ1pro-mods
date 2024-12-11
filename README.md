@@ -8,7 +8,7 @@ firmware mods/ projects
 1) OpenQ1 by frap129: https://github.com/frap129/OpenQ1                                                       
    this projects is a step by step guide on how to convert from stock firmware to community supported firmware
    including The latest versions of klipper, moonraker, fluidd, etc and Improved configuration and macros
-2) klipmi by frap129: https://github.com/frap129/klipmi
+2) klipmi by frap129: https://github.com/frap129/klipmi                                                       
    this is a follow up project of the previous one that enables basic screen support for the printer
    with the up to date firmware
 ---------------------------------------------------------------------------------------------------------------------
